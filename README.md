@@ -3,7 +3,7 @@
 
 This is a basic GUI calculator application created using Python and the Tkinter library. The calculator allows users to perform simple arithmetic calculations using a graphical user interface.
 
-![GUI Calculator](calculator.png)
+![GUI Calculator](Screenshot from 2023-07-27 20-06-28.png)
 
 ## Features
 
